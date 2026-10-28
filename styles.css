@@ -1,2 +1,30 @@
 
 /* Your CSS Code here. */
+h1 {
+	text-align: center;
+}
+
+.moviePic {
+	height: 300px;
+	width: 300px;
+	margin-left: 280px;
+	opacity: 0.5;
+	padding: 10px;
+	border: 1px solid black;
+}
+
+#eg1 {
+	position: relative;
+}
+
+.movieDetail {
+	position: absolute;
+	top: auto;
+	left: 0;
+	right: 0;
+	padding: 20px;
+	width: 50%;
+	margin: 0 auto;
+	text-align: center;
+	font-size: medium;
+}
